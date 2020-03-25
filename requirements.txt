@@ -5,4 +5,4 @@ pandas
 sklearn
 matplotlib
 scipy
-statsmodels
+statsmodels 
